@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russ716&label=Profile%20views&color=0e75b6&style=flat" alt="russ716" /> </p>
 
-<img src="https://github.com/Russ716/russ716/blob/GH Russ.png" width="900">
- 
+<img src="https://github.com/Russ716/russ716/blob/main/GH%20Russ.png?raw=true" width="900">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
