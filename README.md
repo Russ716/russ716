@@ -1,8 +1,10 @@
 <h1 align="center">Hey there, I'm Russell Pelton, but call me Russ</h1>
 <h3 align="center">A curious fullstack developer from Buffalo, currently residing in Nashville.</h3>
-![GH Russ](https://user-images.githubusercontent.com/62854407/221698501-008ec48e-ec7d-4f33-b8a3-67dc86b73378.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russ716&label=Profile%20views&color=0e75b6&style=flat" alt="russ716" /> </p>
+
+<img src="https://github.com/Russ716/russ716/blob/GH Russ.png" width="900">
+ 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
