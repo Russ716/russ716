@@ -13,6 +13,6 @@ https://github.com/Russ716/russ716/blob/main/***640px-Git-logo.svg.png***?raw=tr
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/Python-logo-notext.svg.png?raw=true" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/React-icon.svg.png?raw=true" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/Sql_data_base_with_logo.png ?raw=true" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/640px-Git-logo.svg.png?raw=true" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="[https://github.com/Russ716/russ716/blob/main/640px-Git-logo.svg.png?raw=true](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/640px-Octicons-mark-github.svg.png)" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/640px-Git-logo.svg.png?raw=true" height="100" /></a>
 
