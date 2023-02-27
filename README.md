@@ -1,17 +1,3 @@
-
-
-My Tech Stack:
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/HTML5_logo_and_wordmark.svg.png?raw=true" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/CSS3_logo_and_wordmark.svg.png?raw=true" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/640px-Javascript_badge.svg.png?raw=true" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/React-icon.svg.png?raw=true" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/640px-Git-logo.svg.png?raw=true" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/640px-Github-desktop-logo-symbol.svg.png?raw=true" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/JSON_vector_logo.svg.png?raw=true" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/Python-logo-notext.svg.png?raw=true" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/Django_logo.png?raw=true" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/Russ716/russ716/blob/main/Sql_database_shortcut_icon.png?raw=true" height="100" /></a>
-
 [![Russ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Russ716&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
@@ -25,6 +11,6 @@ My Tech Stack:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Russ716)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Russ716&theme=transparent&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5454&border=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Russ716&theme=transparent&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5454&border=EB5454)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=russ716&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
