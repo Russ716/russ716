@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **crpelton@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pcVIxBYJGLuR7qi-kpqzm6Hb7MFMSQtH/view?usp=sharing](My Resume)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1pcVIxBYJGLuR7qi-kpqzm6Hb7MFMSQtH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
