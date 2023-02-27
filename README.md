@@ -1,6 +1,10 @@
 <h1 align="center">Hey there, I'm Russell Pelton, but call me Russ</h1>
 <h3 align="center">A curious fullstack developer from Buffalo, currently residing in Nashville.</h3>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russ716&label=Profile%20views&color=0e75b6&style=flat" alt="russ716" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=russ716" alt="russ716" /></a> </p>
