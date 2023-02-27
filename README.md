@@ -11,6 +11,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Russ716)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Russ716&theme=transparent&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5454&border=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Russ716&theme=transparent)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=russ716&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
