@@ -1,5 +1,6 @@
 <h1 align="center">Hey there, I'm Russell Pelton, but call me Russ</h1>
 <h3 align="center">A curious fullstack developer from Buffalo, currently residing in Nashville.</h3>
+![GH Russ](https://user-images.githubusercontent.com/62854407/221698501-008ec48e-ec7d-4f33-b8a3-67dc86b73378.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russ716&label=Profile%20views&color=0e75b6&style=flat" alt="russ716" /> </p>
 
