@@ -31,6 +31,9 @@
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   ![Fitbit](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)
+  [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 
 <h3 align="left">Languages and Tools:</h3>
