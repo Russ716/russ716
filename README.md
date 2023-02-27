@@ -2,7 +2,7 @@
 <h3 align="center">A curious fullstack developer from Buffalo, currently residing in Nashville.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russ716&label=Profile%20views&color=0e75b6&style=flat" alt="russ716" /> </p>
-<p align="right"> ![Jokes Card](https://readme-jokes.vercel.app/api) </p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=russ716" alt="russ716" /></a> </p>
 
@@ -17,8 +17,6 @@
 - 📫 How to reach me **crpelton@gmail.com**
 
 - 📄 Want to know about my experiences?  **Here's [My Resume](https://drive.google.com/file/d/1pcVIxBYJGLuR7qi-kpqzm6Hb7MFMSQtH/view?usp=sharing)**
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,3 +41,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russ716&" alt="russ716" /></p>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
