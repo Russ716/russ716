@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Russell Pelton, but call me Russ</h1>
+<h1 align="center">Hey there, I'm Russ Pelton</h1>
 <h3 align="center">A curious fullstack developer from Buffalo, currently residing in Nashville.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russ716&label=Profile%20views&color=0e75b6&style=flat" alt="russ716" /> </p>
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **a few silly projects to expand my horizons**
 
-- 🌱 I’m currently learning **.NET, C#, SQL, ASP.NET Core Web API.**
+- 🌱 I’m currently learning **Databricks notebooks structures, PythonSpark and more.**
 
 - 👯 I’m looking to collaborate on **anything that will help me get a leg up**
 
-- 💬 Ask me about **my cat, board games, or karaoke**
+- 💬 Ask me about **my cats, board games, or karaoke**
 
 - 📫 How to reach me **crpelton@gmail.com**
 
@@ -48,5 +48,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russ716&show_icons=true&locale=en" alt="russ716" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=russ716&" alt="russ716" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russ716&" alt="russ716" /></p>
 
